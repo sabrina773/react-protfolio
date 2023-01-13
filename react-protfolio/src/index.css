@@ -64,7 +64,7 @@ section > p{
 }
 /* General Section Styles */
 a{
-  /*color: var(--color-white);*/
+  color: var(--color-white);
   transition: var(--transition);
 }
 /* General Heading Style */
