@@ -40,10 +40,15 @@
 
 .card.about_card h5 {
   margin: 1rem 0;
+  text-align: center;
 }
-
+.card.about_card h6 {
+  margin: 1rem 0;
+  text-align: center;
+}
 .about_right p {
   margin-bottom: 0.8rem;
+
 }
 
 .about_right .btn {
